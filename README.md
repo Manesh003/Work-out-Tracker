@@ -1,4 +1,4 @@
-# work-out-tracker-1
+# work-out-tracker
 Creating a Software Requirements Specification (SRS) is a critical step in any software project. Here's an outline to help you get started on your workout tracker project using React and Spring Boot:
 
 1. Introduction:
